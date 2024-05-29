@@ -30,6 +30,7 @@
     cursor: pointer;
     justify-content: center;
     gap: 3px;
+    text-decoration: none;
 }
 .nav-menu hr{
     border: none;
